@@ -19,4 +19,4 @@
 #### en
 
 1. Translate everything from **ru** section
-2. None.
+2. None. For now.
